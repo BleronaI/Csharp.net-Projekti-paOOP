@@ -1,0 +1,15 @@
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\bin\Debug\HotelSwissDiamond.exe.config
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\bin\Debug\HotelSwissDiamond.exe
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\bin\Debug\HotelSwissDiamond.pdb
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.csproj.AssemblyReference.cache
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.csproj.SuggestedBindingRedirects.cache
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.frmInterior.resources
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.frmMain.resources
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.Properties.Resources.resources
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.csproj.GenerateResource.cache
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.csproj.CoreCompileInputs.cache
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.exe
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.pdb
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.frmLogin.resources
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.frmRegister.resources
+C:\Users\default.LAPTOP-FIOFHR3U\source\repos\HotelSwissDiamond\HotelSwissDiamond\obj\Debug\HotelSwissDiamond.frmAkomodimi.resources
